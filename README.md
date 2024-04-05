@@ -26,7 +26,8 @@ By achieving these objectives, we aim to create a world where information is mor
 - **User-Friendly Interface:** Easy input of text or speech content.
 
 ## Implementation
-![Screenshot 2024-02-25 220808](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/113525473/3043822e-c6e7-4c47-8aa1-d757587a7888)
+![S2T drawio (1)](https://github.com/aashishanegi/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/91939200/1c62a553-c676-4156-bea5-8fe1d115a1c9)
+
 
 ## Installation
 
