@@ -29,6 +29,9 @@ By achieving these objectives, we aim to create a world where information is mor
 ![S2T drawio (1)](https://github.com/aashishanegi/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/91939200/1c62a553-c676-4156-bea5-8fe1d115a1c9)
 
 
+## Design Diagram
+![S2T drawio (1)](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/91939200/adb79a60-c6e3-49ed-9b38-a7a89aadd620)
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/solo-coder13/Text-and-Speech-Summarizer-using-LLM.git`
